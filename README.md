@@ -9,7 +9,7 @@ The Hall Booking System is a web application that allows users (students/faculty
 ## Technical Contents
 
 - **Tools Used:** HTML, CSS, JavaScript, PHP, MySQL
-- **Domain:** Web Development / Database Management System
+- **Domain:** Web Development / Database Management System DBMS
 
 ## Modules
 
